@@ -86,6 +86,7 @@ Carregamento dos Dados: O notebook está configurado para baixar os dados brutos
 
 ## ✒️ Autores
 Gabriel dos Santos Mota Rodrigues - Estudante de Ciência de Dados / Pesquisador
+
 João Victor Pereira Nogueira - Estudante de Ciência de Dados / Pesquisador
 
 Este projeto foi desenvolvido como parte da disciplina Introdução a Ciência de Dados, demonstrando a aplicação prática de algoritmos de Machine Learning sem o uso de caixas-pretas.
