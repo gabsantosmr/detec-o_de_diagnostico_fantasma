@@ -58,19 +58,6 @@ No entanto, a Inteligência Artificial conseguiu isolar um padrão claro: **Paci
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```bash
-├── data/                  # (Opcional) Amostras dos dados CSV
-├── notebooks/             # Jupyter Notebooks com o código completo
-│   └── diagnostico_fantasma.ipynb
-├── images/                # Gráficos gerados (Matriz de confusão, Árvores)
-├── README.md              # Este arquivo
-└── requirements.txt       # Dependências (pandas, numpy, etc.)
-```
-
----
-
 ## 💻 Como Executar
 Este projeto foi desenvolvido para rodar no Google Colab.
 
