@@ -1,0 +1,1 @@
+# detec-o_de_diagnostico_fantasma
